@@ -30,5 +30,5 @@ Include the spreadsheet.h file in your main.cpp and create a Spreadsheet instanc
     // Test other functionalities as needed
 
     return 0;
-}
-
+# Contributing
+Contributions are welcome! If you have any ideas, bug fixes, or enhancements, feel free to open an issue or submit a pull request. 
