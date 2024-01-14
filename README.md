@@ -6,7 +6,7 @@ To use the Spreadsheet library in your C++ project, follow these steps:
 # Installation
 Clone the repository to your local machine and copy the spreadsheet.h and spreadsheet.cpp files to your project directory.
 # Usage
-Include the spreadsheet.h file in your main.cpp and create a Spreadsheet instance and test its functionality in main.cpp:
+Include the spreadsheet.h file in your main.cpp and create a Spreadsheet instance for testing its functionality in main.cpp:
     
     int main() {
     // Create a 3x4 spreadsheet
